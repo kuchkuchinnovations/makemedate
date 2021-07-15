@@ -8,6 +8,7 @@ const Login = () =>{
         <SafeAreaView>
             <ScrollView showsHorizontalScrollIndicator showsVerticalScrollIndicator >
                 <LinearGradient style = {styles.container} colors={['#4c669f', '#3b5998', '#192f6a']}>
+                  <Text>Welcome to login Page</Text>
                     <Text>Welcome to makemedate nqknsowdodldoijdoewjjoieijjfoiejfioejfiooejfoiejfoiejfpieijfpejfijfejfieijfpejfpejfpejefpowej</Text>
                 </LinearGradient>
             </ScrollView>
